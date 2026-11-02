@@ -1,0 +1,22 @@
+{
+  "programme": "MPhil in Digital Policy",
+  "contact": "the social secretary",
+  "formPrefillUrl": "",
+  "terms": [
+    {
+      "name": "Michaelmas",
+      "start": "2026-10-06",
+      "end": "2026-12-04"
+    },
+    {
+      "name": "Lent",
+      "start": "2027-01-19",
+      "end": "2027-03-19"
+    },
+    {
+      "name": "Easter",
+      "start": "2027-04-27",
+      "end": "2027-06-18"
+    }
+  ]
+}

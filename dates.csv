@@ -1,0 +1,4 @@
+type,title,date,end_date,start,end,where,notes,link
+# Lines starting with # are ignored. Copy the pattern below onto a new line and remove the #.
+# social,Title of the event,2026-11-14,,19:30,22:00,Where it is,Any notes,https://example.com/tickets
+# birthday,First name,14 November,,,,,,
