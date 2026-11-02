@@ -2,4 +2,7 @@ type,title,date,end_date,start,end,where,notes,link
 # Lines starting with # are ignored. Copy the pattern below onto a new line and remove the #.
 # social,Title of the event,2026-11-14,,19:30,22:00,Where it is,Any notes,https://example.com/tickets
 # birthday,First name,14 November,,,,,,
-social,Divali Formal @ Lucy,2026-11-06,,19:00,21:30,Lucy Cavendish College,Ticket price 34.56,
+Formal,Divali Formal @ Lucy,2026-11-06,,19:00,21:30,Lucy Cavendish College,Ticket price 34.56,
+Cohort,Politics Presentation,2026-12-05,,10:00,21:30,The Mond,Exam!,
+birthday,Dhilaa,12 November
+birthday,Christie,29 March
